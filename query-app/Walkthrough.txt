@@ -1,0 +1,10 @@
+`Run this codes for my graphql app 
+
+npx create-react-app my-graphql-app --template typescript
+cd my-graphql-app
+npm install react-router-dom@6.23.0
+npm install urql@4.0.7
+npm install @apollo/client@3.10.1
+npm install graphql@16.8.1
+npm install react-bootstrap@2.10.2
+npm install bootstrap@5.3.3`
